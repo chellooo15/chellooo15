@@ -9,7 +9,7 @@ Anak Esemka
 ## 🚀 About Me
 
 - 🎓 **Esemka**
-- 🧑‍💻 Currently learning and building with **Python, PHP, JavaScript, C#, Java & Linux**
+- 🧑‍💻 Currently learning and building with **Python, PHP, JavaScript, HTML, CSS, Linux**
 - 🐧 Daily driver: **CachyOS + KDE Plasma**
 - 🌐 Interested in networking, Linux servers, Docker & self-hosting
 - 🔧 I like breaking things just to figure out how they work
@@ -21,13 +21,13 @@ Anak Esemka
 ### 💻 Programming
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,php,js,html,css,cs,java,bash" />
+  <img src="https://skillicons.dev/icons?i=python,php,js,html,css,bash" />
 </p>
 
 ### 🖥️ Systems & Infrastructure
 
 <p>
-  <img src="https://skillicons.dev/icons?i=linux,docker,nginx,mysql,redis,git,github" />
+  <img src="https://skillicons.dev/icons?i=linux,docker,nginx,mysql,git,github" />
 </p>
 
 ### ☁️ Other Technologies
@@ -58,4 +58,3 @@ Anak Esemka
 ├── Python GUI
 ├── Web Applications
 ├── C# Windows Forms
-└── Automation
